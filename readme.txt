@@ -7,4 +7,4 @@ Running the App:
 2. Install this app's dependencies: `npm install` from the root directory of the project
 3. Open QBittorrent Tools > Options > Downloads > Check the Run external program on torrent completion option and add the location of this program with the following comamnd line arguments like so 
 
-node <your folder location>/server.js %I
+node <your folder location>/app.js %I
