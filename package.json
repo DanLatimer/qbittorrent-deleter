@@ -1,0 +1,13 @@
+{
+    "name": "qbittorrent-deleter",
+    "version": "0.0.1",
+    "description": "Command line script to delete torrents after they're done downloading",
+    "main": "server.js",
+    "author": "DanLatimer",
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "moment": "^2.18.1",
+        "rsvp": "latest",
+        "xoauth2": "^1.2.0"
+    }
+}
